@@ -25,6 +25,7 @@ main{
 section{
   background-color: violet;
   flex-basis: 70%;
+  min-height: 400px;
   padding: 10px;
 }
 
